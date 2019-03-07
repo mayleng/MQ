@@ -1,0 +1,7 @@
+C:\Users\bonree\Desktop\webapi\netframework\MQ\MQ\bin\MQ.dll.config
+C:\Users\bonree\Desktop\webapi\netframework\MQ\MQ\bin\MQ.dll
+C:\Users\bonree\Desktop\webapi\netframework\MQ\MQ\bin\MQ.pdb
+C:\Users\bonree\Desktop\webapi\netframework\MQ\MQ\obj\Debug\MQ.csprojResolveAssemblyReference.cache
+C:\Users\bonree\Desktop\webapi\netframework\MQ\MQ\obj\Debug\MQ.csproj.CoreCompileInputs.cache
+C:\Users\bonree\Desktop\webapi\netframework\MQ\MQ\obj\Debug\MQ.dll
+C:\Users\bonree\Desktop\webapi\netframework\MQ\MQ\obj\Debug\MQ.pdb
